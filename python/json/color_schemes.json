@@ -94,7 +94,6 @@
     "nvim-lualine/lualine.nvim": "https://github.com/nvim-lualine/lualine.nvim",
     "adelarsq/neoline.vim": "https://github.com/adelarsq/neoline.vim",
     "ojroques/nvim-hardline": "https://github.com/ojroques/nvim-hardline",
-    "datwaft/bubbly.nvim": "https://github.com/datwaft/bubbly.nvim",
     "beauwilliams/statusline.lua": "https://github.com/beauwilliams/statusline.lua",
     "tamton-aquib/staline.nvim": "https://github.com/tamton-aquib/staline.nvim",
     "feline-nvim/feline.nvim": "https://github.com/feline-nvim/feline.nvim",
