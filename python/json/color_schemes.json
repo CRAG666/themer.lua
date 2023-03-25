@@ -132,6 +132,7 @@
     "echasnovski/mini.nvim#mini.starter": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-starter.md",
     "henriquehbr/nvim-startup.lua": "https://sr.ht/~henriquehbr/nvim-startup.lua",
     "startup-nvim/startup.nvim": "https://github.com/startup-nvim/startup.nvim",
+    "willothy/veil.nvim": "https://github.com/willothy/veil.nvim",
     "kyazdani42/nvim-web-devicons": "https://github.com/kyazdani42/nvim-web-devicons",
     "yamatsum/nvim-nonicons": "https://github.com/yamatsum/nvim-nonicons",
     "ziontee113/icon-picker.nvim": "https://github.com/ziontee113/icon-picker.nvim",
