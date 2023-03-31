@@ -94,6 +94,7 @@
     "ThemerCorp/themer.lua": "https://github.com/themercorp/themer.lua",
     "4e554c4c/darkman.nvim": "https://github.com/4e554c4c/darkman.nvim",
     "f-person/auto-dark-mode.nvim": "https://github.com/f-person/auto-dark-mode.nvim",
+    "ecthelionvi/NeoColumn.nvim": "https://github.com/ecthelionvi/NeoColumn.nvim",
     "m4xshen/smartcolumn.nvim": "https://github.com/m4xshen/smartcolumn.nvim",
     "utilyre/barbecue.nvim": "https://github.com/utilyre/barbecue.nvim",
     "SmiteshP/nvim-navic": "https://github.com/SmiteshP/nvim-navic",
