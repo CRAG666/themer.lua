@@ -106,7 +106,7 @@
     "ojroques/nvim-hardline": "https://github.com/ojroques/nvim-hardline",
     "beauwilliams/statusline.lua": "https://github.com/beauwilliams/statusline.lua",
     "tamton-aquib/staline.nvim": "https://github.com/tamton-aquib/staline.nvim",
-    "feline-nvim/feline.nvim": "https://github.com/feline-nvim/feline.nvim",
+    "freddiehaddad/feline.nvim": "https://github.com/freddiehaddad/feline.nvim",
     "windwp/windline.nvim": "https://github.com/windwp/windline.nvim",
     "konapun/vacuumline.nvim": "https://github.com/konapun/vacuumline.nvim",
     "echasnovski/mini.nvim#mini.statusline": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-statusline.md",
