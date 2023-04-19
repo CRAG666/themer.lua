@@ -92,6 +92,7 @@
     "Iron-E/nvim-highlite": "https://github.com/Iron-E/nvim-highlite",
     "echasnovski/mini.nvim#mini.base16": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-base16.md",
     "ThemerCorp/themer.lua": "https://github.com/themercorp/themer.lua",
+    "echasnovski/mini.nvim#mini.colors": "https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md",
     "4e554c4c/darkman.nvim": "https://github.com/4e554c4c/darkman.nvim",
     "f-person/auto-dark-mode.nvim": "https://github.com/f-person/auto-dark-mode.nvim",
     "Bekaboo/deadcolumn.nvim": "https://github.com/Bekaboo/deadcolumn.nvim",
