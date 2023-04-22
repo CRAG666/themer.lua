@@ -100,6 +100,7 @@
     "m4xshen/smartcolumn.nvim": "https://github.com/m4xshen/smartcolumn.nvim",
     "utilyre/barbecue.nvim": "https://github.com/utilyre/barbecue.nvim",
     "SmiteshP/nvim-navic": "https://github.com/SmiteshP/nvim-navic",
+    "luukvbaal/statuscol.nvim": "https://github.com/luukvbaal/statuscol.nvim",
     "NTBBloodbath/galaxyline.nvim": "https://github.com/NTBBloodbath/galaxyline.nvim",
     "tjdevries/express_line.nvim": "https://github.com/tjdevries/express_line.nvim",
     "nvim-lualine/lualine.nvim": "https://github.com/nvim-lualine/lualine.nvim",
