@@ -82,6 +82,7 @@
     "gbprod/nord.nvim": "https://github.com/gbprod/nord.nvim",
     "Yazeed1s/oh-lucy.nvim": "https://github.com/yazeed1s/oh-lucy.nvim",
     "embark-theme/vim": "https://github.com/embark-theme/vim",
+    "nyngwang/nvimgelion": "https://github.com/nyngwang/nvimgelion",
     "tjdevries/gruvbuddy.nvim": "https://github.com/tjdevries/gruvbuddy.nvim",
     "ellisonleao/gruvbox.nvim": "https://github.com/ellisonleao/gruvbox.nvim",
     "metalelf0/jellybeans-nvim": "https://github.com/metalelf0/jellybeans-nvim",
