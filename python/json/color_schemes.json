@@ -102,6 +102,7 @@
     "ecthelionvi/NeoColumn.nvim": "https://github.com/ecthelionvi/NeoColumn.nvim",
     "m4xshen/smartcolumn.nvim": "https://github.com/m4xshen/smartcolumn.nvim",
     "utilyre/barbecue.nvim": "https://github.com/utilyre/barbecue.nvim",
+    "Bekaboo/dropbar.nvim": "https://github.com/Bekaboo/dropbar.nvim",
     "SmiteshP/nvim-navic": "https://github.com/SmiteshP/nvim-navic",
     "luukvbaal/statuscol.nvim": "https://github.com/luukvbaal/statuscol.nvim",
     "NTBBloodbath/galaxyline.nvim": "https://github.com/NTBBloodbath/galaxyline.nvim",
