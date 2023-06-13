@@ -84,6 +84,7 @@
     "embark-theme/vim": "https://github.com/embark-theme/vim",
     "nyngwang/nvimgelion": "https://github.com/nyngwang/nvimgelion",
     "maxmx03/FluoroMachine.nvim": "https://github.com/maxmx03/FluoroMachine.nvim",
+    "dasupradyumna/midnight.nvim": "https://github.com/dasupradyumna/midnight.nvim",
     "tjdevries/gruvbuddy.nvim": "https://github.com/tjdevries/gruvbuddy.nvim",
     "ellisonleao/gruvbox.nvim": "https://github.com/ellisonleao/gruvbox.nvim",
     "metalelf0/jellybeans-nvim": "https://github.com/metalelf0/jellybeans-nvim",
